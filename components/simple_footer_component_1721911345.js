@@ -2,7 +2,7 @@
 */
 Vue.component("simple_footer_component_1721911345", {
     template: `
-    <footer id="footer-section" style="height: 350px" class="flex-1 bg-blue-500 dark:bg-blue-800">
+    <footer id="footer-section" style="height: 350px" class="flex-1 bg-white dark:bg-gray-800">
             <div id="footer-container" class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10">
                 <hr id="footer-divider" class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
                 <div id="footer-content" class="text-center">
@@ -14,7 +14,7 @@ Vue.component("simple_footer_component_1721911345", {
                     </div>
                 </div>
                 <div class="flex">
-                    <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
+                    <div id="footer-text" class="flex-1 block text-sm text-center text-gray-600 dark:text-gray-300">
                         Stay Connected with the Cricketing World - CricketMate
                     </div>
                 </div>
