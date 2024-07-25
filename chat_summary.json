@@ -18,5 +18,11 @@
         "content": "Got it, working on changing the background color to blue.",
         "timestamp": "25072024124442",
         "message_id": "guest25072024124440"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer a solid color background or a gradient?\", \"option1\": \"Solid color\", \"option2\": \"Gradient\"}, {\"question 2\": \"Do you have a specific shade of blue in mind, or should we suggest options based on the app's current color scheme?\", \"option1\": \"I have a specific shade in mind\", \"option2\": \"Please suggest options\"}], \"input_token_count\": 256, \"output_token_count\": 93, \"time_taken\": \"0:00:03.362064\"}",
+        "timestamp": "25072024124446",
+        "message_id": "guest25072024124440"
     }
 ]
